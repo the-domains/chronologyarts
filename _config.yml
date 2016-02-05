@@ -1,0 +1,14 @@
+layout_spectrum: 0.7007169
+color:
+  saturation: 1
+  lightness: 0.7401434
+  brandStrength: 1
+  brandColors:
+    - '#0E0E0E'
+    - '#F0E9DE'
+    - '#BD8F66'
+    - '#E0C5A4'
+    - '#5C5B54'
+  rhythmicContrast: 1
+typography_spectrum: 0.1863799
+name: Chronologyarts
