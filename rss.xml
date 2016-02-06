@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chronologyarts]]></title>
+        <description><![CDATA[Chronologyarts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 07:22:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<article><h1>ABOUT</h1><p>Chronology Arts is proud to represent some of Australia’s finest, most innovative and gifted artists.</p></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">84162dcb-302e-49fe-8471-f1b842518d70</guid>
+            <pubDate>Sat, 06 Feb 2016 07:21:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
