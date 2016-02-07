@@ -4,7 +4,7 @@
         <description><![CDATA[chronology arts]]></description>
         <link>https://thegrid.ai/chronologyarts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 08:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 08:45:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chronologyarts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chronologyarts/about/index.html</link>
             <guid isPermaLink="false">84162dcb-302e-49fe-8471-f1b842518d70</guid>
             <pubDate>Sat, 06 Feb 2016 07:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Company]]></title>
+            <description><![CDATA[<article><h1>Company</h1><h2>Board</h2><p>Chronology Arts supports new music artists' careers.</p></article>]]></description>
+            <link>https://thegrid.ai/chronologyarts/company/index.html</link>
+            <guid isPermaLink="false">08e78ef9-c8a0-4536-afe1-532daa06f3a5</guid>
+            <pubDate>Sun, 07 Feb 2016 08:44:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
