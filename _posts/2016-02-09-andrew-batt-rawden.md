@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-09T05:09:32.033Z'
-dateModified: '2016-02-09T05:09:12.294Z'
+datePublished: '2016-02-09T05:18:08.363Z'
+dateModified: '2016-02-09T05:17:57.535Z'
 title: "Andrew Batt-Rawden\_"
 author: []
+sourcePath: _posts/2016-02-09-andrew-batt-rawden.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-andrew-batt-rawden.md
-published: true
 url: andrew-batt-rawden/index.html
 _type: WebPage
 
