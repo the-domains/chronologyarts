@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-09T05:18:08.363Z'
-dateModified: '2016-02-09T05:17:57.535Z'
+datePublished: '2016-02-09T06:51:22.278Z'
+dateModified: '2016-02-09T05:19:02.473Z'
 title: "Andrew Batt-Rawden\_"
 author: []
 sourcePath: _posts/2016-02-09-andrew-batt-rawden.md
@@ -22,6 +22,8 @@ url: andrew-batt-rawden/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2479d15-6ab2-4445-83ef-eebccf8eb800.jpg)
+
 # Andrew Batt-Rawden 
 
 **[Andrew Batt-Rawden - Composer][0]**
@@ -30,6 +32,6 @@ A trailblazer for creating music that embraces Technology whilst remaining acces
 > 
 > **Seven Stations is thoroughly and (mostly) cheerfully profane.... Batt-Rawden frequently works against notions of conventional vocal 'beauty'****-- Gordon Kerry, Music Trust**
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de281709-777c-42b7-abdb-6cc75bb3ef5e.jpg)
 
 [0]: http://www.andrewbattrawden.com.au/
