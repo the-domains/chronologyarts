@@ -4,7 +4,7 @@
         <description><![CDATA[chronology arts]]></description>
         <link>http://www.chronologyarts.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 00:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 00:27:44 GMT</lastBuildDate>
         <atom:link href="http://www.chronologyarts.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.chronologyarts.net/about/index.html</link>
             <guid isPermaLink="false">84162dcb-302e-49fe-8471-f1b842518d70</guid>
             <pubDate>Tue, 09 Feb 2016 07:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Bakrnčev]]></title>
+            <description><![CDATA[<article><h1>Michael Bakrnčev</h1><p>Coming soon </p></article>]]></description>
+            <link>http://www.chronologyarts.net/michael-bakrncev/index.html</link>
+            <guid isPermaLink="false">058ad99c-20cc-40cc-9c90-5d788a1e3e86</guid>
+            <pubDate>Wed, 10 Feb 2016 00:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Song Company]]></title>
