@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-10T00:20:02.482Z'
-dateModified: '2016-02-10T00:19:47.233Z'
+datePublished: '2016-02-10T00:23:37.431Z'
+dateModified: '2016-02-10T00:23:34.777Z'
 title: Michael Bakrnčev
 author: []
+sourcePath: _posts/2016-02-10-michael-bakrncev.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-michael-bakrncev.md
-published: true
 url: michael-bakrncev/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Michael Bakrnčev
