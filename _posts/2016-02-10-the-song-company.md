@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Vocal Sextet '
-datePublished: '2016-02-10T00:17:09.652Z'
-dateModified: '2016-02-10T00:16:51.668Z'
+datePublished: '2016-02-10T00:21:50.999Z'
+dateModified: '2016-02-10T00:21:47.906Z'
 title: The Song Company
 author: []
+sourcePath: _posts/2016-02-10-the-song-company.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-the-song-company.md
-published: true
 url: the-song-company/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac2acb7-3ba4-4cd2-bf60-249016b02d35.jpg)
