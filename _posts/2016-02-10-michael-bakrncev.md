@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-10T00:27:19.908Z'
-dateModified: '2016-02-10T00:27:17.040Z'
+datePublished: '2016-02-10T00:28:07.279Z'
+dateModified: '2016-02-10T00:28:05.133Z'
 title: Michael Bakrnčev
 author: []
 sourcePath: _posts/2016-02-10-michael-bakrncev.md
