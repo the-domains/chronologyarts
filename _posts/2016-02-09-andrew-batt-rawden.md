@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-09T07:11:32.461Z'
-dateModified: '2016-02-09T07:11:26.149Z'
+datePublished: '2016-02-10T00:26:02.304Z'
+dateModified: '2016-02-10T00:25:58.814Z'
 title: "Andrew Batt-Rawden\_"
 author: []
 sourcePath: _posts/2016-02-09-andrew-batt-rawden.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: andrew-batt-rawden/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2479d15-6ab2-4445-83ef-eebccf8eb800.jpg)
