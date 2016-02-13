@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-10T00:28:07.279Z'
-dateModified: '2016-02-10T00:28:05.133Z'
+datePublished: '2016-02-13T02:43:31.335Z'
+dateModified: '2016-02-13T02:43:29.692Z'
 title: Michael Bakrnčev
 author: []
 sourcePath: _posts/2016-02-10-michael-bakrncev.md
@@ -24,4 +24,19 @@ _type: Article
 ---
 # Michael Bakrnčev
 
-_Coming soon _
+Although
+early in his career, Melbourne-born composer Michael Bakrnčev is one of
+Australia's most highly driven and successful young composers.
+Multi-award-winning Bakrnčev's music has been performed extensively throughout
+Western and Eastern Europe, USA, Canada and Australia, and he has has been
+commissioned to write new works for performers such as the Macedonian
+Philharmonic the Melbourne Symphony Orchestra, the Freiburg Percussion Ensemble
+and Italy's piano virtuoso, Roberto Prosseda. After graduating in 2013 with
+First Class Honours from the Queensland Conservatorium -- Griffith University,
+Bakrnčev began a Masters Degree at the Melbourne Conservatorium of Music -- University
+of Melbourne. Current works-in-progress include his first flute concerto and a
+colossal four-hands piano work in collaboration with author Fay Thomev.
+
+> "Hovering between suspensions, the harmony had a Pärtian simplicity, made beautifully vulnerable by microtonal inflections" - Celeste Oram MODART review, Sydney
+
+__
