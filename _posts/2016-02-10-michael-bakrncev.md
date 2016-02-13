@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Composer
-datePublished: '2016-02-13T02:43:31.335Z'
-dateModified: '2016-02-13T02:43:29.692Z'
+datePublished: '2016-02-13T02:45:31.183Z'
+dateModified: '2016-02-13T02:45:28.017Z'
 title: Michael Bakrnčev
 author: []
 sourcePath: _posts/2016-02-10-michael-bakrncev.md
@@ -22,6 +22,8 @@ url: michael-bakrncev/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abca795c-6524-4f76-ae77-a9bbe4b37278.jpg)
+
 # Michael Bakrnčev
 
 Although
