@@ -4,8 +4,15 @@
         <description><![CDATA[chronology arts]]></description>
         <link>http://www.chronologyarts.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 02:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 03:02:58 GMT</lastBuildDate>
         <atom:link href="http://www.chronologyarts.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACT]]></title>
+            <description><![CDATA[<article><h1>CONTACT</h1><p>Sign up to our enewsletter here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1445600a541c71d87ceab1c966ee99ccbf63eff.jpg"></article>]]></description>
+            <link>http://www.chronologyarts.net/contact/index.html</link>
+            <guid isPermaLink="false">23c43d7c-c4a0-4aed-b9de-eaac5322899d</guid>
+            <pubDate>Sat, 13 Feb 2016 03:01:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ABOUT]]></title>
             <description><![CDATA[<article><h1>ABOUT</h1><p>Chronology Arts is proud to represent some of Australia’s finest, most innovative and gifted artists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4d2879b723427759cd94432a57df90a53ba852.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Michael Bakrnčev]]></title>
-            <description><![CDATA[<article><h1>Michael Bakrnčev</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abca795c-6524-4f76-ae77-a9bbe4b37278.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Michael Bakrnčev</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a14785cef0cbf3dc21f2dde9b7058e1597ebf8e.jpg"></article>]]></description>
             <link>http://www.chronologyarts.net/michael-bakrncev/index.html</link>
             <guid isPermaLink="false">058ad99c-20cc-40cc-9c90-5d788a1e3e86</guid>
             <pubDate>Sat, 13 Feb 2016 02:45:31 GMT</pubDate>
@@ -54,13 +61,6 @@ collaborative appearances both within Australia and internationally. </p><img sr
             <link>http://www.chronologyarts.net/company/index.html</link>
             <guid isPermaLink="false">08e78ef9-c8a0-4536-afe1-532daa06f3a5</guid>
             <pubDate>Wed, 10 Feb 2016 23:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<article><h1>CONTACT</h1><p>Sign up to our enewsletter here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1445600a541c71d87ceab1c966ee99ccbf63eff.jpg"></article>]]></description>
-            <link>http://www.chronologyarts.net/contact/index.html</link>
-            <guid isPermaLink="false">23c43d7c-c4a0-4aed-b9de-eaac5322899d</guid>
-            <pubDate>Tue, 09 Feb 2016 07:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
