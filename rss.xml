@@ -4,11 +4,18 @@
         <description><![CDATA[chronology arts]]></description>
         <link>http://www.chronologyarts.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 03:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 03:03:13 GMT</lastBuildDate>
         <atom:link href="http://www.chronologyarts.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ARTISTS]]></title>
+            <description><![CDATA[<article><h1>ARTISTS</h1><p>Chronology Artists </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be4150365d773d5e927029ae497e8664e249b818.jpg"></article>]]></description>
+            <link>http://www.chronologyarts.net/contact/index.html</link>
+            <guid isPermaLink="false">32537452-f4d4-4a13-a407-7429617ea2c6</guid>
+            <pubDate>Sat, 13 Feb 2016 03:02:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<article><h1>CONTACT</h1><p>Sign up to our enewsletter here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1445600a541c71d87ceab1c966ee99ccbf63eff.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CONTACT</h1><p>Sign up to our enewsletter here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29a23cfff817544e9caaae7ca2d1aba1d4a627be.jpg"></article>]]></description>
             <link>http://www.chronologyarts.net/contact/index.html</link>
             <guid isPermaLink="false">23c43d7c-c4a0-4aed-b9de-eaac5322899d</guid>
             <pubDate>Sat, 13 Feb 2016 03:01:35 GMT</pubDate>
@@ -47,13 +54,6 @@ collaborative appearances both within Australia and internationally. </p><img sr
             <link>http://www.chronologyarts.net/the-song-company/index.html</link>
             <guid isPermaLink="false">e62b0bcd-ebd6-41b5-838b-5c80d61ac138</guid>
             <pubDate>Wed, 10 Feb 2016 00:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARTISTS]]></title>
-            <description><![CDATA[<article><h1>ARTISTS</h1><p>Chronology Artists </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be4150365d773d5e927029ae497e8664e249b818.jpg"></article>]]></description>
-            <link>http://www.chronologyarts.net/contact/index.html</link>
-            <guid isPermaLink="false">32537452-f4d4-4a13-a407-7429617ea2c6</guid>
-            <pubDate>Wed, 10 Feb 2016 00:34:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COMPANY]]></title>
