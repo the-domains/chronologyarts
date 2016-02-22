@@ -4,8 +4,15 @@
         <description><![CDATA[chronology arts]]></description>
         <link>http://www.chronologyarts.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 06:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 06:40:40 GMT</lastBuildDate>
         <atom:link href="http://www.chronologyarts.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SUPPORT ]]></title>
+            <description><![CDATA[<article><h1>SUPPORT </h1><p></p></article>]]></description>
+            <link>http://www.chronologyarts.net/support/index.html</link>
+            <guid isPermaLink="false">626a7137-e026-4766-b49b-e0284f031b8c</guid>
+            <pubDate>Mon, 22 Feb 2016 06:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CURRENT PROJECTS]]></title>
             <description><![CDATA[<article><h1>CURRENT PROJECTS</h1><p>Represented Projects - Chronology Artists </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6323a9f478be63cd25bcd9c52f44be03be65204a.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.chronologyarts.net/company/index.html</link>
             <guid isPermaLink="false">08e78ef9-c8a0-4536-afe1-532daa06f3a5</guid>
             <pubDate>Sat, 13 Feb 2016 03:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUPPORT ]]></title>
-            <description><![CDATA[<article><h1>SUPPORT </h1><p></p></article>]]></description>
-            <link>http://www.chronologyarts.net/support/index.html</link>
-            <guid isPermaLink="false">626a7137-e026-4766-b49b-e0284f031b8c</guid>
-            <pubDate>Mon, 15 Feb 2016 01:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ARTISTS]]></title>
