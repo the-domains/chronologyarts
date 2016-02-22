@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-16T01:36:48.207Z'
-dateModified: '2016-02-16T01:36:34.757Z'
+description: 'Current Projects '
+datePublished: '2016-02-22T03:34:40.742Z'
+dateModified: '2016-02-22T03:34:40.141Z'
 title: CURRENT PROJECTS
 author: []
+sourcePath: _posts/2016-02-16-current-projects.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-current-projects.md
-published: true
 url: current-projects/index.html
 _type: Article
 
