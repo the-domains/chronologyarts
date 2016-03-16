@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Mary Finsterer\_"
-datePublished: '2016-03-16T12:05:43.398Z'
-dateModified: '2016-03-16T12:04:45.546Z'
+datePublished: '2016-03-16T12:07:25.079Z'
+dateModified: '2016-03-16T12:07:04.176Z'
 title: Mary Finsterer
 author: []
 sourcePath: _posts/2016-03-16-mary-finsterer.md
