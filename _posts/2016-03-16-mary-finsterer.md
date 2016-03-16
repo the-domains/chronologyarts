@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mary Finsterer\_"
-datePublished: '2016-03-16T11:58:20.033Z'
-dateModified: '2016-03-16T11:55:08.348Z'
+datePublished: '2016-03-16T12:01:54.093Z'
+dateModified: '2016-03-16T11:58:28.424Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-mary-finsterer.md
