@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Mary Finsterer\_"
-datePublished: '2016-03-16T11:54:09.339Z'
-dateModified: '2016-03-16T11:53:59.368Z'
+datePublished: '2016-03-16T11:55:02.205Z'
+dateModified: '2016-03-16T11:54:19.624Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-mary-finsterer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-mary-finsterer.md
-published: true
 url: mary-finsterer/index.html
 _type: Article
 
